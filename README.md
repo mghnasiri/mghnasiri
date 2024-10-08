@@ -2,7 +2,7 @@
 
 As a highly motivated **Decision Scientist** and **Quality Engineer**, I bring over 2 years of experience in **data analysis**, **quality management**, and **process optimization**. My expertise lies in utilizing advanced analytical techniques to drive continuous improvement within organizations. 🚀
 
-![Profile Views](https://www.linkedin.com/in/mohammad-ghafourian-nasiri-0653aa83/)
+
 
 ## 💡 Expertise
 
