@@ -50,7 +50,7 @@ I'm particularly interested in:
 
 ## 🚀 Featured Projects
 
-- ✨ Exciting projects are coming soon! I'm always working on something new that blends AI, Optimization, and Data Science to create meaningful solutions. Keep an eye out for updates!
+- ✨ Exciting projects are coming soon! I'm always working on something new. Keep an eye out for updates!
 
 ## 🌍 Let's Connect!
 
