@@ -32,13 +32,16 @@ I am a PhD student at [Universite Laval](https://www.ulaval.ca/) and a member of
 
 ## Education
 
-**PhD in Operations and Decision Systems** -- Universite Laval, CIRRELT (current)
+**PhD, Administrative Sciences -- Operations and Decision-Making Systems** -- Universite Laval, CIRRELT (2025 -- present)
 
+**MSc, Industrial Engineering** -- Tarbiat Modares University (2020 -- 2022)
+
+**BSc, Industrial Engineering** -- Ferdowsi University of Mashhad (2013 -- 2017)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Ghafourian%20Nasiri-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-ghafourian-nasiri/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-lightgrey?logo=googlescholar)](https://scholar.google.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Nasiri-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-nasiri-0653aa83/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?logo=github)](https://mghnasiri.github.io/)
 
 **Email:** moghn@ulaval.ca
 **Affiliation:** CIRRELT, Universite Laval, Quebec City, Canada
